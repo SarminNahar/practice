@@ -1,0 +1,52 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 80px;
+    text-align: center;
+    line-height:50px;
+}
+#text{
+    text-align: left;
+    margin-left:250px;
+    margin-top:0px;
+    
+}
+.background-image{
+    background-image: url("image/cake.jpg");
+    background-repeat: no-repeat;
+    height: 400px;
+    padding: 1%;
+
+}
+#pastry-color{
+    color:rgb(250, 84, 7);
+}
+.about-us p{
+    float:left;
+    margin-left: 11.5%;
+    background-color: rgb(252, 243, 243);
+    box-shadow: 1px 10px 20px gray;
+    border-radius: 5px;
+    height: 100%;
+    padding: 0.5%;
+    }
+.about-us a{
+    text-decoration: none;
+}
+h2{
+    clear: both;
+    color:rgb(250, 84, 7);
+}
+.image img{
+    width: 20%;
+    margin-left: 45px;
+}
+footer{
+    text-align: center;
+    color:rgb(255, 37, 29);
+    font-size: 10pt;
+    margin-bottom:0.5%
+  
+}
